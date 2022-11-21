@@ -1,0 +1,27 @@
+#catalogElement .mainTool .addCart, .product .addCart{	
+	background: #ed1c24;
+}
+.product {height:421px !important;}
+.product .tabloid {height:420px !important;}
+@media (max-width: 600px){
+	.product{
+		height: auto !important;
+	}
+	.product .tabloid {
+		height: auto !important;
+	}	
+	.propContainer{
+		height: auto !important;
+	}
+}
+@media (min-width: 600px) and (max-width: 700px){
+	.product{
+		height: 340px !important;
+	}
+	.product .tabloid {
+		height: 339px !important;
+	}	
+}
+.product .tabloid:hover {
+	height: auto !important;
+}

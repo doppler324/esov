@@ -1,0 +1,11 @@
+Host: santehgen.ru:80
+Date: 2022-03-26 15:57:17
+Module: 
+NULL
+    VHeat::UpdateFrontParametrsValues < VHeat::Start < include_once < require < require_once
+	/home/bitrix/ext_www/esov.su/bitrix/modules/centino.heat/classes/general/VHeat.php:2813
+	/home/bitrix/ext_www/esov.su/bitrix/templates/centino-heat/header.php:22
+	/home/bitrix/ext_www/esov.su/bitrix/modules/main/include/prolog_after.php:106
+	/home/bitrix/ext_www/esov.su/bitrix/modules/main/include/prolog.php:11
+	/home/bitrix/ext_www/esov.su/bitrix/header.php:1
+----------

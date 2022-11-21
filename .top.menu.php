@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Каталог", 
+		"catalog/naruchnye_chasy/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Бренды", 
+		"brands/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Доставка", 
+		"https://lite.al/WbXgQg", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Промокоды и скидки", 
+		"https://lite.al/MNR1qR", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Статьи", 
+		"blog/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

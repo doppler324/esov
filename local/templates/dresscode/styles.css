@@ -1,0 +1,49 @@
+.item .oSkuDropdownList.opened, #catalogElement .skuDropdownList.opened{
+	max-height: 300px;
+	overflow-y: scroll;	
+}
+.propExpander.expanded+.params ul {
+    position: relative;
+    overflow-y: auto;
+    max-height: 500px;
+        overflow-x: hidden;
+}
+
+#brandList .item {
+	height: 140px !important;
+}
+#brandList .item .tabloid a:nth-child(2){
+	display:block;
+	height:30px;
+	line-height:30px;	
+	text-align:center;
+	font-size: 14px;
+	color: #000000;
+	text-decoration: none;
+}
+@media (min-width: 1101px){
+	#catalogElement .mainTool .addCartContainer {
+		width: 250px;
+	}
+}
+#catalogElement .fixContainer {
+    width: 250px;
+}
+#catalogElement .mainTool .addCart{
+	width: 100%;
+}
+#subHeader4 #logo {
+    line-height: 30px;
+	height: 65px;
+}  
+.logospan{
+	font-size: 1rem;
+	text-transform: uppercase;
+	font-family: 'robotobold';
+}
+.sectionTopDescription{
+	margin: 24px 0;
+}
+.product .addCartContainer{
+	margin-top:12px !important;
+}
